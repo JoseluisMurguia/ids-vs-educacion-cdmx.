@@ -1,0 +1,4 @@
+# Ignorar datos crudos pesados y entornos virtuales
+data/raw/
+venv/
+__pycache__/
